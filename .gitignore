@@ -15,3 +15,5 @@
 /source/wheels
 /branding
 /extension
+config.bat
+node_modules
